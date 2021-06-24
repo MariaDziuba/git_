@@ -1,4 +1,5 @@
 Hello
 Goodbye
 Add new line
-The line out of GitHb
+The hello line from GtHub
+Add another new line!
