@@ -2,3 +2,4 @@ Hello
 Goodbye
 Add new line
 Add another line
+This line is for git_test only
